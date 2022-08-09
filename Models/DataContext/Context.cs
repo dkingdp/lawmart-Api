@@ -11,6 +11,7 @@ namespace LawMart.Models.DataContext
         {
 
         }
+        //Override
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
